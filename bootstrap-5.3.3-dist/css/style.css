@@ -1,0 +1,8 @@
+:root{
+    --rojo: red;
+}
+
+.text-rojo{
+    color: var(--rojo);
+
+}
